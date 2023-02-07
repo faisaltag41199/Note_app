@@ -1,16 +1,24 @@
 # noteapp
 
-A new Flutter project.
+flutter application to rapidly capture your ideas.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+* display notes .
+* manage note (add note - update note - delete note ) .
+* change to dark mode and light mode .
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# What I Learned
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* How to use flutter widgets to build the UI of the application.
+* How to use dart and flutter to develop the product that meets the requirements.
+* How to use Bloc State Management .
+* How to apply Clean Architecture .
+* How to use Flutter Theme.
+* How to switch between dark and light mode.
+* How to use cupertino widgets.
+* How to use Hive database  
+  - store and retrieve notes
+* How to use Flutter Exiplicit animations.
+
